@@ -401,6 +401,3 @@ where rank_1<=3
 This project demonstrates the power of SQL for data cleaning, analysis, and extracting actionable insights. It provides a robust foundation for advanced analytical techniques and decision-making processes in retail business contexts.
 
 ---
-
-## Feedback
-Feel free to contribute or share feedback to enhance this project!
